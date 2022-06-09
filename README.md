@@ -1,2 +1,2 @@
 # Kaggle_Titanic_competition
-Kaggle入门项目，利用决策树来进行预测Titanic乘客生存率，线上正确率为0.73923。
+It is a Kaggle project, which decision trees were used to predict the survival rate of Titanic passengers, and the online accuracy rate was 0.73923.
